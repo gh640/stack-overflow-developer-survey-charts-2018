@@ -68,6 +68,8 @@ Now you've finished to prepare the environment and run the command below to see 
 pipenv run jupyter notebook
 ```
 
+Once a browser tab has opened automatically, click `plot_so_developer_survey_python.ipynb`.
+
 ## References
 
 - [Stack Overflow Insights - Developer Hiring, Marketing, and User Research](https://insights.stackoverflow.com/survey)
