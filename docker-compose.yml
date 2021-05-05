@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  python:
+    build: .
+    init: true
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
