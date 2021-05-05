@@ -22,6 +22,7 @@ If you want to run the notebook in your environment, follow the steps below.
 2. Build Docker image.
 3. Download the survey data.
 4. Run Jupyter notebook.
+5. Stop Jupyter notebook.
 
 ### 1. Clone this repo.
 
@@ -54,6 +55,16 @@ docker-compose logs -f
 ```
 
 Open the URL in the log stream with your browser. Then click `plot_so_developer_survey_python.ipynb` in the list.
+
+### 5. Stop Jupyter notebook.
+
+After using the notebook, Stop Jupyter notebook.
+
+```bash
+docker-compose down
+```
+
+Delete the Docker image after you've finished using the image.
 
 ## References
 
