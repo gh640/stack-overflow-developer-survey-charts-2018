@@ -12,12 +12,6 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 WORKDIR /app
 
-# RUN apt-get update && \
-#   apt-get install -y --no-install-recommends \
-#     libzmq4 \
-#     libzmq4-dev && \
-#   rm -rf /var/lib/apt/lists/*
-
 RUN python -m pip install -U pip
 
 # Install `poetry`.
