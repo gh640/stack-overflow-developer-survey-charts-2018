@@ -6,8 +6,8 @@ This repository is made for visualizing the Stack Overflow Developer Survey 2018
 
 You can see generated charts for Python related stats in the following pages.
 
-- [plot_so_developer_survey_python.ipynb](https://github.com/gh640/stack-overflow-developer-survey-charts/blob/master/plot_so_developer_survey_python.ipynb)
-- [charts.md](https://github.com/gh640/stack-overflow-developer-survey-charts/blob/master/charts.md)
+- [plot_so_developer_survey_python.ipynb](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/plot_so_developer_survey_python.ipynb)
+- [charts.md](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/charts.md)
 
 ## Prerequisites
 
