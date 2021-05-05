@@ -2,72 +2,72 @@
 
 ## `Age`
 
-![Age](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-Age.png)
+![Age](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-Age.png)
 
 ## `CommunicationTools`
 
-![CommunicationTools](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-CommunicationTools.png)
+![CommunicationTools](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-CommunicationTools.png)
 
 ## `DatabaseDesireNextYear`
 
-![DatabaseDesireNextYear](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-DatabaseDesireNextYear.png)
+![DatabaseDesireNextYear](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-DatabaseDesireNextYear.png)
 
 ## `DatabaseWorkedWith`
 
-![DatabaseWorkedWith](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-DatabaseWorkedWith.png)
+![DatabaseWorkedWith](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-DatabaseWorkedWith.png)
 
 ## `DevType`
 
-![DevType](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-DevType.png)
+![DevType](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-DevType.png)
 
 ## `FormalEducation`
 
-![FormalEducation](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-FormalEducation.png)
+![FormalEducation](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-FormalEducation.png)
 
 ## `FrameworkDesireNextYear`
 
-![FrameworkDesireNextYear](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-FrameworkDesireNextYear.png)
+![FrameworkDesireNextYear](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-FrameworkDesireNextYear.png)
 
 ## `FrameworkWorkedWith`
 
-![FrameworkWorkedWith](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-FrameworkWorkedWith.png)
+![FrameworkWorkedWith](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-FrameworkWorkedWith.png)
 
 ## `IDE`
 
-![IDE](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-IDE.png)
+![IDE](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-IDE.png)
 
 ## `LanguageDesireNextYear`
 
-![LanguageDesireNextYear](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-LanguageDesireNextYear.png)
+![LanguageDesireNextYear](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-LanguageDesireNextYear.png)
 
 ## `LanguageWorkedWith`
 
-![LanguageWorkedWith](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-LanguageWorkedWith.png)
+![LanguageWorkedWith](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-LanguageWorkedWith.png)
 
 ## `Methodology`
 
-![Methodology](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-Methodology.png)
+![Methodology](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-Methodology.png)
 
 ## `NumberMonitors`
 
-![NumberMonitors](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-NumberMonitors.png)
+![NumberMonitors](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-NumberMonitors.png)
 
 ## `OperatingSystem`
 
-![OperatingSystem](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-OperatingSystem.png)
+![OperatingSystem](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-OperatingSystem.png)
 
 ## `PlatformDesireNextYear`
 
-![PlatformDesireNextYear](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-PlatformDesireNextYear.png)
+![PlatformDesireNextYear](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-PlatformDesireNextYear.png)
 
 ## `PlatformWorkedWith`
 
-![PlatformWorkedWith](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-PlatformWorkedWith.png)
+![PlatformWorkedWith](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-PlatformWorkedWith.png)
 
 ## `UndergradMajor`
 
-![UndergradMajor](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-UndergradMajor.png)
+![UndergradMajor](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-UndergradMajor.png)
 
 ## `VersionControl`
 
-![VersionControl](/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-VersionControl.png)
+![VersionControl](https://github.com/gh640/stack-overflow-developer-survey-charts-2018/blob/master/out/Python/chart-VersionControl.png)
